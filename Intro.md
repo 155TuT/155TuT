@@ -2,7 +2,7 @@
 
 -----------------------------------------
 
-#### An East Asian child who once strived to highlight their own uniqueness
+#### An East Asian child who once strived to highlight their own uniqueness.
 
 From China, Harbin, a city that is as beautiful as St. Petersburg in my heart.
 
@@ -12,6 +12,7 @@ The hobby is daydreaming, with a desire to tightly grasp all the imagined ideals
 
 Contact <zhiyiwang155tut@gmail.com> or on my [zhihu](https://www.zhihu.com/people/leavesnowsama2005)
 
+Currently pursuing my undergraduate studies at Fuzhou University.
 
 <!--
 **155TuT/155TuT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
