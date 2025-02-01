@@ -10,7 +10,7 @@ Fond of Fyodor Dostoevsky, Niccolò Machiavelli, and Ludwig Wittgenstein.
 
 The hobby is daydreaming, with a desire to tightly grasp all the imagined ideals of humanism.
 
-Contact <zhiyiwang155tut@gmail.com>
+Contact <zhiyiwang155tut@gmail.com> or on my [zhihu](https://www.zhihu.com/people/leavesnowsama2005)
 
 
 <!--
