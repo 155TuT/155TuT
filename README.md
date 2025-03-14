@@ -6,11 +6,13 @@
 
 From China, Harbin, a city that is as beautiful as St. Petersburg in my heart.
 
+Once an OIer, now an ACMer struggling with algorithms.Personal ability is more inclined to the direction of digital media and the integration of computers and humanities, and I am sorry that I have not been able to make a great contribution.
+
 Fond of Fyodor Dostoevsky, Niccolò Machiavelli, and Ludwig Wittgenstein.
 
 The hobby is daydreaming, with a desire to tightly grasp all the imagined ideals of humanism.
 
-Contact <zhiyiwang155tut@gmail.com> or on my [zhihu](https://www.zhihu.com/people/leavesnowsama2005)
+Contact <zhiyiwang155TuT@gmail.com> or on my [zhihu](https://www.zhihu.com/people/leavesnowsama2005)
 
 Currently pursuing my undergraduate studies at Fuzhou University.
 
