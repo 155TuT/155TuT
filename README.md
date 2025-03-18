@@ -2,9 +2,9 @@
 
 -----------------------------------------
 
-#### An East Asian child who once strived to highlight their own uniqueness.
+#### An East Asian child who once strived to highlight his own uniqueness.
 
-From China, Harbin, a city that is as beautiful as St. Petersburg in my heart.
+From China, Harbin, a city that is as beautiful as St.Petersburg in my heart.
 
 Once an OIer, now an ACMer struggling with algorithms.Personal ability is more inclined to the direction of digital media and the integration of computers and humanities, and I am sorry that I have not been able to make a great contribution.
 
