@@ -16,13 +16,12 @@ The hobby is daydreaming, with a desire to tightly grasp all the imagined ideals
 	<img src="https://github-readme-stats.vercel.app/api?username=155TuT&show_icons=true&bg_color=0000&hide_title=true" align="right" alt="My GitHub Stats" />
 </a>
 
-
 #### Contact
 
 - [zhihu](https://www.zhihu.com/people/leavesnowsama2005)
 - [Blog (zh-CN)](https://155tut.github.io/)
 - [email](mailto:zhiyiwang155TuT@gmail.com)
-- [steam]([https://t.me/renbaoshuo](https://steamcommunity.com/id/155TuT))
+- [steam](https://steamcommunity.com/id/155TuT)
 
 <!--
 **155TuT/155TuT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
