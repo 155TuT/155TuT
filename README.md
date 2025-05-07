@@ -2,6 +2,8 @@
 
 -----------------------------------------
 
+### 👋你好, やっはろー, Hello, Bonjour, 唔该, Приве́т
+
 #### Here's 155TuT, an East Asian child who once strived to highlight his own uniqueness.
 
 From China, Harbin, a city that is as beautiful as St.Petersburg in my heart.
@@ -22,6 +24,16 @@ The hobby is daydreaming, with a desire to tightly grasp all the imagined ideals
 - [Blog (zh-CN)](https://155tut.github.io/)
 - [email](mailto:zhiyiwang155TuT@gmail.com)
 - [steam](https://steamcommunity.com/id/155TuT)
+
+#### Technology Stack (Currently)
+
+- C/C++ 5.5/10 (only in windows now, only with gnu now)
+- HTML/CSS 7/10
+- js/ts 3/10
+- ~~Figma/Ps/Pr/PPT 5/10~~
+- ~~C# && Unity 2/10~~
+
+As you can see, I need to keep learning
 
 <!--
 **155TuT/155TuT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
