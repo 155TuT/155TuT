@@ -18,13 +18,6 @@ The hobby is daydreaming, with a desire to tightly grasp all the imagined ideals
 	<img src="https://github-readme-stats.vercel.app/api?username=155TuT&show_icons=true&bg_color=0000&hide_title=true" align="right" alt="My GitHub Stats" />
 </a>
 
-#### Contact
-
-- [zhihu](https://www.zhihu.com/people/leavesnowsama2005)
-- [Blog (zh-CN)](https://155tut.github.io/)
-- [email](mailto:zhiyiwang155TuT@gmail.com)
-- [steam](https://steamcommunity.com/id/155TuT)
-
 #### Technology Stack (Currently)
 
 - C/C++ 5.5/10 (only in windows now, only with gnu now)
