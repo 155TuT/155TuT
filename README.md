@@ -20,9 +20,10 @@ The hobby is daydreaming, with a desire to tightly grasp all the imagined ideals
 
 #### Technology Stack (Currently)
 
-- C/C++ 5.5/10 (only in windows now, only with gnu now)
+- C/C++ 6/10 (only in windows now)
 - HTML/CSS 7/10
 - js/ts 3/10
+- python 3/10 (Weird， right？)
 - ~~Figma/Ps/Pr/PPT 5/10~~
 - ~~C# && Unity 2/10~~
 
