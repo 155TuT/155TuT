@@ -24,10 +24,10 @@ The hobby is daydreaming, with a desire to tightly grasp all the imagined ideals
 - HTML/CSS 7/10
 - js/ts 3/10
 - python 3/10 (Weird， right？)
-- ~~Figma/Ps/Pr/PPT 5/10~~
+- ~~Figma/Ps/Pr/PPT 7/10~~
 - ~~C# && Unity 2/10~~
 
-As you can see, I need to keep learning
+As you can see, I need to keep learning. Also, sometimes I feel like I'm less of a coder and more of a glorified AI handler for design and product specs. But I don't really wanna vibe living.
 
 <!--
 **155TuT/155TuT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
