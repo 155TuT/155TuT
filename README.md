@@ -20,11 +20,13 @@ The hobby is daydreaming, with a desire to tightly grasp all the imagined ideals
 
 #### Technology Stack (Currently)
 
-- C/C++ 6/10 (only in windows now)
-- HTML/CSS 7/10
-- js/ts 3/10
+- C/C++ 6.5/10 (only in windows now)
+- HTML/CSS 8.5/10
+- js/ts 6.5/10
 - python 3/10 (Weird， right？)
-- ~~Figma/Ps/Pr/PPT 7/10~~
+- Figma 9/10
+- PPT 7/10
+- Ps/Pr 5/10
 - ~~C# && Unity 2/10~~
 
 As you can see, I need to keep learning. Also, sometimes I feel like I'm less of a coder and more of a glorified AI handler for design and product specs. But I don't really wanna vibe living.
