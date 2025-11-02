@@ -8,7 +8,7 @@
 
 From China, Harbin, a city that is as beautiful as St.Petersburg in my heart.
 
-Once an OIer, now an ACMer struggling with algorithms.Personal ability is more inclined to the direction of digital media and the integration of computers and humanities, and I am sorry that I have not been able to make a great contribution.
+Once an OIer/ACMer struggling with algorithms. But now I'm studying AI, CV and especially frontend. And my personal ability is more inclined to the direction of digital media and the integration of computers and humanities. I'm sorry that I've not been able to make a great contribution.
 
 Fond of Fyodor Dostoevsky, Niccolò Machiavelli, and Ludwig Wittgenstein.
 
@@ -20,13 +20,13 @@ The hobby is daydreaming, with a desire to tightly grasp all the imagined ideals
 
 #### Technology Stack (Currently)
 
-- C/C++ 6.5/10 (only in windows now)
-- HTML/CSS 8.5/10
-- js/ts 6.5/10
-- python 3/10 (Weird， right？)
 - Figma 9/10
+- HTML/CSS 8.5/10
 - PPT 7/10
+- C/C++ 6.5/10
+- js/ts 6.5/10
 - Ps/Pr 5/10
+- python 3/10 (Weird， right？)
 - ~~C# && Unity 2/10~~
 
 As you can see, I need to keep learning. Also, sometimes I feel like I'm less of a coder and more of a glorified AI handler for design and product specs. But I don't really wanna vibe living.
