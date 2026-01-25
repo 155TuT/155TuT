@@ -4,7 +4,7 @@
 
 ### 👋你好, やっはろー, Hello, Bonjour, 唔该, Приве́т
 
-#### Here's 155TuT, an East Asian child who once strived to highlight his own uniqueness.
+Here's **155TuT**, an East Asian child who once strived to highlight his own uniqueness.
 
 From China, Harbin, a city that is as beautiful as St.Petersburg in my heart.
 
@@ -15,19 +15,8 @@ Fond of Fyodor Dostoevsky, Niccolò Machiavelli, and Ludwig Wittgenstein.
 The hobby is daydreaming, with a desire to tightly grasp all the imagined ideals of humanism.
 
 <a herf="https://github.com/155TuT">
-	<img src="https://github-readme-stats.vercel.app/api?username=155TuT&show_icons=true&bg_color=0000&hide_title=true" align="right" alt="My GitHub Stats" />
+	<img src="https://github-readme-stats.vercel.app/api?username=155TuT&show_icons=true&bg_color=0000&hide_title=true" alt="My GitHub Stats" />
 </a>
-
-#### Technology Stack (Currently)
-
-- Figma 9/10
-- HTML/CSS 8.5/10
-- PPT 7/10
-- C/C++ 6.5/10
-- js/ts 6.5/10
-- Ps/Pr 5/10
-- python 3/10 (Weird， right？)
-- ~~C# && Unity 2/10~~
 
 As you can see, I need to keep learning. Also, sometimes I feel like I'm less of a coder and more of a glorified AI handler for design and product specs. But I don't really wanna vibe living.
 
