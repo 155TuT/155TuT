@@ -18,7 +18,9 @@ The hobby is daydreaming, with a desire to tightly grasp all the imagined ideals
 	<img src="https://github-readme-stats.vercel.app/api?username=155TuT&show_icons=true&bg_color=0000&hide_title=true" alt="My GitHub Stats" />
 </a>
 
-As you can see, I need to keep learning. Also, sometimes I feel like I'm less of a coder and more of a glorified AI handler for design and product specs. But I don't really wanna vibe living.
+As you can see, I need to keep learning. 
+
+Sometimes I feel like I'm less of a coder and more of a glorified AI handler for design and product specs. But I don't really wanna vibe living.
 
 <!--
 **155TuT/155TuT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
