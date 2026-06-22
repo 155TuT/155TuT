@@ -6,9 +6,9 @@
 
 Here's **155TuT**, an East Asian child who once strived to highlight his own uniqueness.
 
-From China, Harbin, a city that is as beautiful as St.Petersburg in my heart.
+From Harbin, China, a city as beautiful as St. Petersburg in my heart.
 
-Once an OIer/ACMer struggling with algorithms. But now I'm studying AI, CV and especially frontend. And my personal ability is more inclined to the direction of digital media and the integration of computers and humanities. I'm sorry that I've not been able to make a great contribution.
+Once an OIer/ACMer struggling with algorithms. But now I'm studying AI, CV and especially frontend. And my personal ability is more inclined to the direction of digital media and the integration of computers and humanities. I'm sorry that I've still unable to make any great contribution.
 
 Fond of Fyodor Dostoevsky, Niccolò Machiavelli, and Ludwig Wittgenstein.
 
@@ -18,9 +18,9 @@ The hobby is daydreaming, with a desire to tightly grasp all the imagined ideals
 	<img src="https://github-readme-stats.vercel.app/api?username=155TuT&show_icons=true&bg_color=0000&hide_title=true" alt="My GitHub Stats" />
 </a>
 
-As you can see, I need to keep learning. 
+As you can see, still learning.
 
-Sometimes I feel like I'm less of a coder and more of a glorified AI handler for design and product specs. But I don't really wanna vibe living.
+Sometimes less of a coder, more of a glorified AI handler for design and product specs. But not really willing to live on vibes alone.
 
 <!--
 **155TuT/155TuT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
