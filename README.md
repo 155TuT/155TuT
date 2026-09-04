@@ -12,7 +12,7 @@ Once an OIer/ACMer struggling with algorithms. But now I'm studying AI, CV front
 
 My personal ability is more inclined to the direction of digital media and the integration of computers and humanities. I'm sorry that I've still unable to make any great contribution.
 
-Fond of Fyodor Dostoevsky, Niccolò Machiavelli, Ludwig Wittgenstein and others the most，and I also like Pablo Neruda，Yasunari Kawabata，Hai Zi and Jian Zhen and others just as much
+Fond of Fyodor Dostoevsky, Niccolò Machiavelli, Ludwig Wittgenstein and others the most, and I also like Pablo Neruda, Yasunari Kawabata, Hai Zi, Jian Zhen and others just as much
 
 The hobby is daydreaming, with a desire to tightly grasp all the imagined ideals of humanism.
 
